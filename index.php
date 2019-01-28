@@ -13,7 +13,9 @@ and open the template in the editor.
         <?php
         echo 'Este es el primer echo <br/>';
         
-        echo 'voy a hacer el primer commit en local';
+        echo 'voy a hacer el primer commit en local<br/>';
+        
+        echo 'voy a hacer un segundo commit<br/>';
         
         ?>
     </body>
